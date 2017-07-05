@@ -1,4 +1,4 @@
 # Hello guys!
 
-I just joined Githnu!
+I just joined Github!
 I'm thrilled.
