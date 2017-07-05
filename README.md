@@ -1,2 +1,4 @@
-# test
-A simple test application
+# Hello guys!
+
+I just joined Github!
+I'm thrilled.
